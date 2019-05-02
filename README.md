@@ -12,4 +12,6 @@ So, here we used the <b>wikipedia api </b> service to get the plot of the story.
 
 ## Web Implementation Module :
 
-<img src="log_all.png" alt="sample_output_3" width="700" />
+<img src="01.png" alt="sample_output_1" width="700" />
+<img src="02.png" alt="sample_output_2" width="700" />
+
