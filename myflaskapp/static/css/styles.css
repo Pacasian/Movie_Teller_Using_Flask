@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+html {
+  background-image: url('../img/home-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+/* Add a black background color to the top navigation */
